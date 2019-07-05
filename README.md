@@ -1,6 +1,5 @@
-# Animatch
-Link game :
-http://animatch.000webhostapp.com
+# Animatch http://animatch.000webhostapp.com
+
 
 Project  UTS Kelompok 4
 ANGGOTA
